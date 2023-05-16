@@ -1,4 +1,4 @@
 # SEM2FINAL
-Sem2 Java
+Sem1 Java
 
 Lê Nguyễn Văn Cường
